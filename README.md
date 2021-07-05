@@ -11,6 +11,11 @@
 [<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />][JavaScript]
 [<img align="left" alt="Postgre" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgre]
 [<img align="left" alt="MSSQL" width="40px" src="https://www.iconshock.com/image/Lumina/Database/microsoft_sql_server/" />][mssql]
+[<img align="left" alt="HTML" width="40px" src="https://image.flaticon.com/icons/png/512/732/732212.png" />][html5]
+[<img align="left" alt="CSS" width="40px" src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png" />][css]
+[<img align="left" alt="REACT" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" />][React]
+[<img align="left" alt="VSCODE" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][VisualStudioCode]
+
 
 <br />
 <br />
@@ -21,3 +26,7 @@
 [JavaScript]: https://en.wikipedia.org/wiki/JavaScript
 [postgre]: https://en.wikipedia.org/wiki/PostgreSQL
 [mssql]: https://en.wikipedia.org/wiki/Microsoft_SQL_Server
+[html5]: https://en.wikipedia.org/wiki/HTML5
+[css]: https://en.wikipedia.org/wiki/CSS
+[React]: https://en.wikipedia.org/wiki/React_(JavaScript_library)
+[VisualStudioCode]: https://en.wikipedia.org/wiki/Visual_Studio_Code
