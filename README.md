@@ -29,6 +29,11 @@
 <br />
 
 
+
+  <img align="left" alt="BilgehanEROGLU9's GitHub Stats" src="https://github-readme-stats.BilgehanEROGLU9.vercel.app/api?username=BilgehanEROGLU9&show_icons=true&hide_border=true" />
+
+
+
 [csharp]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 [java]: https://en.wikipedia.org/wiki/Java_(programming_language)
 [JavaScript]: https://en.wikipedia.org/wiki/JavaScript
