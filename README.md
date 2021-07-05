@@ -12,7 +12,7 @@
 [<img align="left" alt="Postgre" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgre]
 [<img align="left" alt="MSSQL" width="40px" src="https://www.iconshock.com/image/Lumina/Database/microsoft_sql_server/" />][mssql]
 [<img align="left" alt="HTML" width="40px" src="https://image.flaticon.com/icons/png/512/732/732212.png" />][html5]
-[<img align="left" alt="CSS" width="40px" src="https://www.pngitem.com/pimgs/m/198-1985012_transparent-css3-logo-png-css-logo-transparent-background.png" />][css]
+[<img align="left" alt="CSS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" />][css]
 [<img align="left" alt="REACT" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" />][React]
 [<img align="left" alt="VSCODE" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][VisualStudioCode]
 
