@@ -9,8 +9,8 @@
 [<img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />][csharp]
 [<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />][java]
 [<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />][JavaScript]
-[<img align="left" alt="Java" width="40px" src="https://media-exp3.licdn.com/dms/image/C560BAQHrj3Yt60-jig/company-logo_200_200/0/1549608657591?e=2159024400&v=beta&t=ltobpt_uHiLWEELVhQGvTJIsLRhPlovP_8cgAhzhJ_Y" />][postgre]
-[<img align="left" alt="Java" width="40px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />][mssql]
+[<img align="left" alt="Java" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgre]
+[<img align="left" alt="Java" width="40px" src="https://iconape.com/wp-content/png_logo_vector/microsoft-sql-server.png" />][mssql]
 
 <br />
 <br />
