@@ -1,7 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/BilgehanEROGLU9) 
-### Hi! I'm Bilgehan
-
-### I am a full stack developer. I write codes by caring SOLID and Clean Code principles.
 
 <h1 align = "center">Hi! I'm Bilgehan</h1>
 <p align = "center"><i><strong>I am a full stack developer. I write codes by caring SOLID and Clean Code principles.</strong></i></p>
