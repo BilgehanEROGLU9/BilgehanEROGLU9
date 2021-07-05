@@ -1,6 +1,10 @@
+![Profile views](https://gpvc.arturio.dev/BilgehanEROGLU9) 
 ### Hi! I'm Bilgehan
 
 ### I am a full stack developer. I write codes by caring SOLID and Clean Code principles.
+
+<h1 align = "center">Hi! I'm Bilgehan</h1>
+<p align = "center"><i><strong>I am a full stack developer. I write codes by caring SOLID and Clean Code principles.</strong></i></p>
 
 ### Connect with me:
 
@@ -35,7 +39,7 @@
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BilgehanEROGLU9&langs_count=8&hide=TSQL,PLpgSQL&theme=vue-dark&layout=compact&show_icons=true">
-  <img src = "https://github-readme-stats.vercel.app/api?username=BilgehanEROGLU9&hide=prs,issues,contribs&show_icons=true&hide_border=true&theme=vue-dark&line_height=30"> 
+  <img src = "https://github-readme-stats.vercel.app/api?username=BilgehanEROGLU9&hide=prs,issues,contribs&show_icons=true&hide_border=true&theme=vue-dark"> 
 
  
 </p>
