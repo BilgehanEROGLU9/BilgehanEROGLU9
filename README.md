@@ -28,10 +28,10 @@
 <br />
 <br />
 
-
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BilgehanEROGLU9)](https://github.com/BilgehanEROGLU9/github-readme-stats)
 ---
   <img align="left" alt="BilgehanEROGLU9's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BilgehanEROGLU9&hide=prs,issues,contribs&show_icons=true&hide_border=true&theme=dark" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BilgehanEROGLU9)](https://github.com/BilgehanEROGLU9/github-readme-stats)
+ 
 
 
 
