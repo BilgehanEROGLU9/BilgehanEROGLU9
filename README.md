@@ -31,7 +31,7 @@
 
 
   <details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+ <summary><b>Github Stats</b>: </summary>
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BilgehanEROGLU9&langs_count=8&hide=TSQL,PLpgSQL&theme=dark&layout=compact&show_icons=true">
