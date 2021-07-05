@@ -14,7 +14,7 @@
 [<img align="left" alt="CSS" width="40px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/04/css-3-logo.png" />][css]
 [<img align="left" alt="Postgre" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgre]
 [<img align="left" alt="MSSQL" width="40px" src="https://www.iconshock.com/image/Lumina/Database/microsoft_sql_server/" />][mssql]
-[<img align="left" alt="VSCODE" width="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/oracle.png" />][oracle]
+[<img align="left" alt="VSCODE" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/oracle-226044.png" />][oracle]
 [<img align="left" alt="VSCODE" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][VisualStudioCode]
 [<img align="left" alt="VSCODE" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />][github]
 
