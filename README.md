@@ -6,8 +6,8 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />][csharp]
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />][java]
+[<img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />][csharp]
+[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />][java]
 
 <br />
 <br />
