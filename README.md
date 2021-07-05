@@ -12,7 +12,7 @@
 [<img align="left" alt="Postgre" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgre]
 [<img align="left" alt="MSSQL" width="40px" src="https://www.iconshock.com/image/Lumina/Database/microsoft_sql_server/" />][mssql]
 [<img align="left" alt="HTML" width="40px" src="https://image.flaticon.com/icons/png/512/732/732212.png" />][html5]
-[<img align="left" alt="CSS" width="40px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/04/css-3-logo.png" />][css]
+[<img align="left" alt="CSS" width="40px" src="https://lh3.googleusercontent.com/proxy/-H2P2EXJGiIvLvq4vqkXjkSlCNGeURjceTa8jH1eeLw2NaWcZMdOI-AL25V_qTdqFe72nzgozaGfsG1CYdWQKS71bKkRA-VEbsHQMsUZZfdQPwMaom20XO6o7A" />][css]
 [<img align="left" alt="REACT" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" />][React]
 [<img align="left" alt="VSCODE" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][VisualStudioCode]
 
