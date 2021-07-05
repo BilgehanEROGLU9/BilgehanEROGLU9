@@ -28,9 +28,20 @@
 <br />
 <br />
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BilgehanEROGLU9&theme=dark)](https://github.com/BilgehanEROGLU9/github-readme-stats)
+
 ---
   <img align="left" alt="BilgehanEROGLU9's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BilgehanEROGLU9&hide=prs,issues,contribs&show_icons=true&hide_border=true&theme=dark" />
+
+  <details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BilgehanEROGLU9&langs_count=8&hide=TSQL,PLpgSQL&theme=yeblu&layout=compact&show_icons=true">
+  <img src = "https://github-readme-stats.vercel.app/api?username=BilgehanEROGLU9&hide=prs,issues,contribs&show_icons=true&hide_border=true&theme=dark"> 
+ 
+</p>
+
+</details>
  
 
 
