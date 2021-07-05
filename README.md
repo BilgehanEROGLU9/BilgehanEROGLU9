@@ -6,6 +6,7 @@
 
 [<img align="left" alt="bilge | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="bilge | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="bilge | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.5.0/icons/maildotru.svg" />][mail]
 
 
 <br />
@@ -41,7 +42,7 @@
 </p>
 
 </details>
- 
+
 
 
 
@@ -59,3 +60,4 @@
 [oracle]: https://en.wikipedia.org/wiki/Oracle_Database
 [instagram]: https://www.instagram.com/bilgehan_eroglu/?hl=tr
 [linkedin]: https://www.linkedin.com/in/bilgehan-ero%C4%9Flu-659621210/
+[mail]: mailto:bilge1999han@hotmail.com
