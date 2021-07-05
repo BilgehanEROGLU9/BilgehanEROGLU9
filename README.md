@@ -2,6 +2,12 @@
 
 ## I am a fullstack developer. I write codes by caring SOLID and Clean Code principles.
 
+### Connect with me:
+
+[<img align="left" alt="bilge | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="bilge | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
 <br />
 
 ### Languages and Tools:
@@ -34,3 +40,5 @@
 [VisualStudioCode]: https://en.wikipedia.org/wiki/Visual_Studio_Code
 [github]: https://en.wikipedia.org/wiki/GitHub
 [oracle]: https://en.wikipedia.org/wiki/Oracle_Database
+[instagram]: https://www.instagram.com/bilgehan_eroglu/?hl=tr
+[linkedin]: https://www.linkedin.com/in/bilgehan-ero%C4%9Flu-659621210/
