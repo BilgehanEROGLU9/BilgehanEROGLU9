@@ -35,7 +35,6 @@
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BilgehanEROGLU9&langs_count=8&hide=TSQL,PLpgSQL&theme=vue-dark&layout=compact&show_icons=true">
-  <br>
   <img src = "https://github-readme-stats.vercel.app/api?username=BilgehanEROGLU9&hide=prs,issues,contribs&show_icons=true&hide_border=true&theme=vue-dark"> 
 
  
