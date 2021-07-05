@@ -6,7 +6,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="C#" width="26px" src="https://bilisimacademy.com/egitimlerimiz/wp-content/uploads/2021/03/C-Sharp-egitimi.png" />][csharp]
+[<img align="left" alt="C#" width="26px" src="https://w7.pngwing.com/pngs/340/226/png-transparent-purple-and-white-logo-c-computer-programming-software-development-programmer-marklogic-coder-miscellaneous-purple-class.png" />][csharp]
 
 <br />
 <br />
