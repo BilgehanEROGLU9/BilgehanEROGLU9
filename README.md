@@ -1,5 +1,6 @@
 ### Hi! I'm Bilgehan
-## I am a full stack developer. I write codes by caring SOLID and Clean Code principles.
+
+### I am a full stack developer. I write codes by caring SOLID and Clean Code principles.
 
 ### Connect with me:
 
