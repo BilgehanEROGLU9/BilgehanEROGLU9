@@ -15,6 +15,7 @@
 [<img align="left" alt="CSS" width="40px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/04/css-3-logo.png" />][css]
 [<img align="left" alt="REACT" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" />][React]
 [<img align="left" alt="VSCODE" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][VisualStudioCode]
+[<img align="left" alt="VSCODE" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />][github]
 
 
 <br />
@@ -30,3 +31,4 @@
 [css]: https://en.wikipedia.org/wiki/CSS
 [React]: https://en.wikipedia.org/wiki/React_(JavaScript_library)
 [VisualStudioCode]: https://en.wikipedia.org/wiki/Visual_Studio_Code
+[github]: https://en.wikipedia.org/wiki/GitHub
