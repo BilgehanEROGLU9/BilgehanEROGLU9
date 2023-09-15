@@ -2,12 +2,6 @@
 <h1 align = "center">Hi! I'm Bilgehan</h1>
 <p align = "center"><i><strong>I am a full stack developer. I write codes by caring SOLID and Clean Code principles.</strong></i></p>
 
-### Connect with me:
-
-[<img align="left" alt="bilge | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="bilge | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="bilge | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.5.0/icons/maildotru.svg" />][mail]
-
 
 <br />
 
