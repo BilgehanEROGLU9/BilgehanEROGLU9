@@ -6,11 +6,11 @@
 <br />
 
 ### Languages and Tools:
-
+[<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />][csharp]
 [<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />][java]
 [<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />][JavaScript]
-[<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />][nodejs]
+
 [<img align="left" alt="REACT" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" />][React]
 [<img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
