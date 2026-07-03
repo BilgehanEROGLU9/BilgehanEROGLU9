@@ -52,6 +52,5 @@
 [VisualStudioCode]: https://en.wikipedia.org/wiki/Visual_Studio_Code
 [github]: https://en.wikipedia.org/wiki/GitHub
 [oracle]: https://en.wikipedia.org/wiki/Oracle_Database
-[instagram]: https://www.instagram.com/bilgehan_eroglu/?hl=tr
 [linkedin]: https://www.linkedin.com/in/bilgehan-ero%C4%9Flu-659621210/
 [mail]: mailto:bilgehaneroglu09@gmail.com
