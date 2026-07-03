@@ -7,7 +7,7 @@
 
 ### Languages and Tools:
 
-
+[<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />][csharp]
 [<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />][java]
 [<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />][JavaScript]
