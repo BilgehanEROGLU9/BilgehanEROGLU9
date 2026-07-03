@@ -12,6 +12,7 @@
 [<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />][java]
 [<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />][JavaScript]
 [<img align="left" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />][typescript]
+[<img align="left" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" />][angular]
 [<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />][react]
 [<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" />][php]
 [<img align="left" alt="MSSQL" width="40px" src="https://www.iconshock.com/image/Lumina/Database/microsoft_sql_server/" />][mssql]
@@ -26,7 +27,7 @@
 <br />
 <br />
 
-
+[angular]: https://en.wikipedia.org/wiki/Angular_(web_framework)
 [mysql]: https://en.wikipedia.org/wiki/MySQL
 [php]: https://en.wikipedia.org/wiki/PHP
 [typescript]: https://en.wikipedia.org/wiki/TypeScript
