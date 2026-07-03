@@ -27,7 +27,7 @@
 <br />
 
 
-
+[mysql]: https://en.wikipedia.org/wiki/MySQL
 [php]: https://en.wikipedia.org/wiki/PHP
 [typescript]: https://en.wikipedia.org/wiki/TypeScript
 [csharp]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
