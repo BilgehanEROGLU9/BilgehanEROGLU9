@@ -14,11 +14,12 @@
 [<img align="left" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />][typescript]
 [<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />][react]
 [<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" />][php]
+[<img align="left" alt="MSSQL" width="40px" src="https://www.iconshock.com/image/Lumina/Database/microsoft_sql_server/" />][mssql]
+[<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />][mysql]
+[<img align="left" alt="Postgre" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgre]
+[<img align="left" alt="VSCODE" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBLLlRIzSnkyCOaKynb2i2SCvOYZh-8EYlw&usqp=CAU" />][oracle]
 [<img align="left" alt="Unreal Engine" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/unreal-engine/unreal-engine.png" />][unrealengine]
 [<img align="left" alt="Unity" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" />][unity]
-[<img align="left" alt="Postgre" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgre]
-[<img align="left" alt="MSSQL" width="40px" src="https://www.iconshock.com/image/Lumina/Database/microsoft_sql_server/" />][mssql]
-[<img align="left" alt="VSCODE" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBLLlRIzSnkyCOaKynb2i2SCvOYZh-8EYlw&usqp=CAU" />][oracle]
 
 
 
